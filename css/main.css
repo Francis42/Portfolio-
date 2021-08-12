@@ -23,6 +23,7 @@ header h1 {
 #profile {
     position: relative;
     margin-top: 50px;
+    margin-left: 50px;
     width: 200px;
     height: 200px;
     overflow: hidden;
