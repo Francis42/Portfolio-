@@ -24,7 +24,10 @@ header h1 {
     position: relative;
     margin-top: 50px;
     width: 120px;
-    border-radius: 80%;
+   
+}
+#profile img {
+    border-radius: 50%;
 }
 
 #profile:hover {
