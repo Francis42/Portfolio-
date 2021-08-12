@@ -9,7 +9,6 @@ body {
 
 }
 header {
-     display: flex;
      background: #6a040f;
      text-align: center;
      padding: 5px;
