@@ -5,7 +5,7 @@ body {
       background: maroon;
       margin: auto;
       font-family: "open sans",sans-serif;
-      color: #202020;
+      color: #ffffff;
       animation: fadein ease 2s;
 
 }
@@ -40,7 +40,7 @@ header h1 {
 }
 
 a {
-    color: #fff;
+    color: #ffffff;
 }
 .link {
     font-size: 30px;
