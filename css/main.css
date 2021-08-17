@@ -10,7 +10,7 @@ body {
 
 }
 header {
-     background:  linear-gradient(maroon, black);
+     background:  linear-gradient(black, maroon);
      text-align: center;
      padding: 5px;
 
