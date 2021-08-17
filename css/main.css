@@ -57,7 +57,7 @@ footer {
     left: 0;
     right: 0;
     bottom: 0;
-    background: #6a040f;
+    background: linear-gradient(#c31432, #240b36);
     width: 100%;
     text-align: center;
     color: #fff;
