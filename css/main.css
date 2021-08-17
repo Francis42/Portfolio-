@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
 
 body {
-      background:  linear-gradient(maroon, black);
+      background: maroon;
       margin: auto;
       font-family: "open sans",sans-serif;
       color: #202020;
@@ -10,7 +10,7 @@ body {
 
 }
 header {
-     background: #dd1818;
+     background:  linear-gradient(maroon, black);
      text-align: center;
      padding: 5px;
 
